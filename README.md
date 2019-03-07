@@ -19,37 +19,37 @@
       <tr>
         <td>Hipster Ponto Tech</td>
         <td>Tecnologia</td>
-        <td>xxx</td>
+        <td>Discussões acaloradas sobre startups, programação, ux, gadgets e as tendências em tecnologia.</td>
       </tr>
       <tr>
         <td>BBC Minute</td>
         <td>Linguas</td>
-        <td>XXX</td>
+        <td>Lançada em 2015, a BBC Minute agora transmite em 25 estações em 17 países ao redor do mundo.</td>
       </tr>
       <tr>
         <td>Metric-The User Experience Design Podcast</td>
         <td>Tecnologia</td>
-        <td>XXX</td>
+        <td>Metric is a podcast about design, the user experience, and strategy.</td>
       </tr>
       <tr>
         <td>Xadrez Verbal</td>
         <td>Política</td>
-        <td>XXX</td>
+        <td>Política, História, atualidades e um pouco de autoterapia.</td>
       </tr>
       <tr>
         <td>Sinuca de Bicos</td>
         <td>Maternidade</td>
-        <td>XXX</td>
+        <td>Um podcast que mete o bico na maternidade real.</td>
       </tr>
       <tr>
         <td>Revolushow</td>
         <td>Política</td>
-        <td>XXX</td>
+        <td>Irreverência, socialismo e tudo que há de bom na esquerda.</td>
       </tr>
       <tr>
         <td>NerdCast</td>
         <td>Tecnologia</td>
-        <td>XXX</td>
+        <td>Cinema, quadrinhos, história, ciência, tecnologia, tudo embalado em podcasts.</td>
       </tr>
       <tr>
         <td>Xadrez Verbal</td>
